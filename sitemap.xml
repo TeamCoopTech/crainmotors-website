@@ -1,5 +1,4 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!-- Canonical host ASSUMED https://crainmotors.com — confirm TLD with Sam before go-live. See ../ASSUMPTIONS.md -->
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://crainmotors.com/</loc>
