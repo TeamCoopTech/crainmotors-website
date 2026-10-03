@@ -1,0 +1,8 @@
+Stock photos, Pexels License (free to use, commercial use allowed, attribution not required).
+Generic auto service images; they do not show Crain Motor Cars, its staff or its premises.
+hero-brake-inspection.(webp|jpg)  Gustavo Fring   https://www.pexels.com/photo/man-checking-on-the-brakes-of-a-vehicle-6870319/
+service-bay-lift.(webp|jpg)       Artem Podrez    https://www.pexels.com/photo/mechanic-standing-under-a-car-on-a-car-lift-8986119/
+brake-disc-caliper.(webp|jpg)     Erik Mclean     https://www.pexels.com/photo/close-up-of-car-brake-caliper-and-disc-34277926/
+tires-stack.(webp|jpg)            wal_ 172619     https://www.pexels.com/photo/stockpile-of-tires-for-industrial-use-36353556/
+Downloaded 2026-10-03 from the Pexels image CDN, resized and cropped by Pexels (jpg and webp).
+License: https://www.pexels.com/license/
